@@ -1,5 +1,5 @@
 _repo: Nietzsche-s-Philosophie_63366
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Wijck, B. H. C. K. van der (Bernard Hendrik Cornelis Karel)
@@ -16,6 +16,9 @@ contributor:
     alias: Francois-Merkus, M.
     gutenberg_agent_id: '52405'
     url: http://www.gutenberg.org/2009/agents/52405
+covers:
+- cover_type: archival
+  image_path: 63366-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Lichtenberger, Henri
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '52403'
     url: http://www.gutenberg.org/2009/agents/52403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63366#Nietzsche-s-Philosophie
 gutenberg_issued: '2020-10-04'
 gutenberg_type: Text
 identifiers:
